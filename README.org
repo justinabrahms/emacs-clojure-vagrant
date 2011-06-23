@@ -1,0 +1,2 @@
+* Vagrant setup for Seajure hack nights.
+As an attempt to get a reasonable development environment quickly for Seajure hacknights, I setup a shareable virtualbox via Vagrant. Let's all play along!
